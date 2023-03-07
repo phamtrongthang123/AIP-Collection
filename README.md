@@ -6,6 +6,7 @@
 ## The list
 
 - [AIP-001](https://github.com/phamtrongthang123/AIP-Collection):  The start of all. 
+- [AIP-001](https://github.com/phamtrongthang123/AIP-phd): PhD journey is wrong as I expected.
 - [AIP-002](https://github.com/phamtrongthang123/RamdomProj/tree/master/simple_load_show_img_text): Let's see image-text pairs 
 - [AIP-003](https://github.com/phamtrongthang123/RamdomProj/tree/master/OCR_CRNN): It becomes classify task
 - [AIP-004](https://github.com/phamtrongthang123/RamdomProj/tree/master/bernoulli%20random): What if I collect a bunch of yes/no data in a gamble and use that to predict next outcome? 
