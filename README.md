@@ -8,7 +8,7 @@
 - [AIP-001](https://github.com/phamtrongthang123/AIP-Collection):  The start of all. 
 - [AIP-001](https://github.com/phamtrongthang123/AIP-phd): PhD journey is wrong as I expected.
 - [AIP-002](https://github.com/phamtrongthang123/RamdomProj/tree/master/simple_load_show_img_text): Let's see image-text pairs 
-- [AIP-003](https://github.com/phamtrongthang123/RamdomProj/tree/master/OCR_CRNN): It becomes classify task
+- [AIP-003](https://github.com/phamtrongthang123/RamdomProj/tree/master/OCR_CRNN): It becomes classification task
 - [AIP-004](https://github.com/phamtrongthang123/RamdomProj/tree/master/bernoulli%20random): What if I collect a bunch of yes/no data in a gamble and use that to predict next outcome? 
 - [AIP-005](https://github.com/phamtrongthang123/RamdomProj/tree/master/remove%20non%20straight%20line): remove noise for a receipt?
 - [AIP-006](https://github.com/phamtrongthang123/RandomScript/tree/master/Merge_and_VisualizeMask): Let's merge all the masks into source image.
@@ -27,4 +27,4 @@
 - [AIP-019](https://github.com/phamtrongthang123/pyro-learning): glad that MLE/MAP tutorial is on Pyro's main page now. 
 - [AIP-020](https://github.com/phamtrongthang123/l2-distance-tracking-bbox): 2 bbox close to each other? It's the same object then. 
 - [AIP-021](https://github.com/phamtrongthang123/simple_shift_cipher): My first Rust project. Do you know `u` and `i` cannot be assigned to each other?
-- [AIP-022](https://github.com/phamtrongthang123/unofficial_dynamic_fusion): Unofficial implementation of Dynamic Fusion. This one is cool. I played so much with functorch for 7 months. The only downside of this repo is that it is incomplete and not runnable :p. Don't blame me. None of the reimplementation out there is runnable after all. I doubt anyone can reproduce Dynamic Fusion and publicize it on Github. At this point, no one cares anymore.   
+- [AIP-022](https://github.com/phamtrongthang123/unofficial_dynamic_fusion): [FAILED] Unofficial implementation of Dynamic Fusion. This one is cool. I played so much with functorch for 7 months. The only downside of this repo is that it is incomplete and not runnable :p. Don't blame me. None of the reimplementation out there is runnable after all. I doubt anyone can reproduce Dynamic Fusion and publicize it on Github. At this point, no one cares anymore.   
