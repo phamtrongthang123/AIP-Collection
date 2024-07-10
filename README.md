@@ -24,7 +24,7 @@
 - [AIP-016](https://github.com/phamtrongthang123/example_clickjacking): Good old clickjacking.
 - [AIP-017](https://github.com/phamtrongthang123/A-notebook-series): A notebook series. 
 - [AIP-018](https://github.com/phamtrongthang123/youtube-manim): I love the potential of Manimlib.
-- [AIP-019](https://github.com/phamtrongthang123/pyro-learning): glad that MLE/MAP tutorial is on Pyro's main page now. 
+- [AIP-019](https://github.com/phamtrongthang123/pyro-learning): glad that MLE/MAP tutorial is on Pyro's main page now (https://pyro.ai/examples/mle_map.html). Though the current version should be very different from what I initially contributed. Glad to see the improvement!
 - [AIP-020](https://github.com/phamtrongthang123/l2-distance-tracking-bbox): 2 bbox close to each other? It's the same object then. 
 - [AIP-021](https://github.com/phamtrongthang123/simple_shift_cipher): My first Rust project. Do you know `u` and `i` cannot be assigned to each other?
 - [AIP-022](https://github.com/phamtrongthang123/unofficial_dynamic_fusion): [FAILED] Unofficial implementation of Dynamic Fusion. This one is cool. I played so much with functorch for 7 months. The only downside of this repo is that it is incomplete and not runnable :p. Don't blame me. None of the reimplementation out there is runnable after all. I doubt anyone can reproduce Dynamic Fusion and publicize it on Github. At this point, no one cares anymore.   
